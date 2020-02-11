@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479654239421",
+    "firebase_url": "https://matrix-trading.firebaseio.com",
+    "project_id": "matrix-trading",
+    "storage_bucket": "matrix-trading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479654239421:android:0dd0b279332797f3cfebd4",
+        "android_client_info": {
+          "package_name": "com.digiwrecks.matrix_trading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479654239421-if6q9bmm6u1014kjue0eoeo61rtseqdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYeWB5OVKFKBVxkAnkODCD7LNxU60eJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479654239421-if6q9bmm6u1014kjue0eoeo61rtseqdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
